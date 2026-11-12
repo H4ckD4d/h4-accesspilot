@@ -1,0 +1,67 @@
+{
+  "title": "H4 AccessPilot",
+  "tag": "Acessibilidade digital verificável",
+  "desc": "Análise defensiva de acessibilidade para desenvolvedores e equipes web.",
+  "en_desc": "Defensive accessibility analysis for developers and web teams.",
+  "es_desc": "Análisis defensivo de accesibilidad para desarrolladores y equipos web.",
+  "hero": {
+    "pt-BR": "Encontre barreiras de acessibilidade antes que seus usuários as encontrem.",
+    "en": "Find accessibility barriers before your users do.",
+    "es": "Detecte barreras de accesibilidad antes de que sus usuarios las encuentren."
+  },
+  "subtitle": {
+    "pt-BR": "Analise HTML autorizado, organize descobertas e priorize verificações manuais orientadas pelas WCAG.",
+    "en": "Analyze authorized HTML, organize findings and prioritize manual checks guided by WCAG.",
+    "es": "Analice HTML autorizado, organice resultados y priorice revisiones manuales según WCAG."
+  },
+  "features": {
+    "pt-BR": [
+      [
+        "Verificações claras",
+        "Detecte sinais de problemas em imagens, títulos e formulários."
+      ],
+      [
+        "Relatório auditável",
+        "Cada descoberta inclui regra, severidade e orientação."
+      ],
+      [
+        "Revisão humana",
+        "Automação não substitui navegação assistiva ou testes com pessoas."
+      ]
+    ],
+    "en": [
+      [
+        "Understandable checks",
+        "Identify risk signals in images, headings and forms."
+      ],
+      [
+        "Traceable reports",
+        "Each finding has a rule, severity and recommendation."
+      ],
+      [
+        "Human review",
+        "Automation cannot replace assistive technology and user testing."
+      ]
+    ],
+    "es": [
+      [
+        "Pruebas comprensibles",
+        "Identifique problemas en imágenes, títulos y formularios."
+      ],
+      [
+        "Informes trazables",
+        "Cada hallazgo tiene regla, gravedad y recomendación."
+      ],
+      [
+        "Revisión humana",
+        "La automatización no sustituye las pruebas con usuarios."
+      ]
+    ]
+  },
+  "keywords": {
+    "pt-BR": "acessibilidade web, auditoria WCAG, verificação HTML, acessibilidade digital",
+    "en": "website accessibility checker, WCAG audit, HTML accessibility testing",
+    "es": "accesibilidad web, auditoría WCAG, análisis de accesibilidad"
+  },
+  "type": "accesspilot"
+}
